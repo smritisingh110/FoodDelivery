@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  width: 50%;
+  height: auto;
+}
+
+.navUl{
+  padding: 2%;
+  display: flex;
+  align-items: center;
+  background-color: black;
+
+}
+.navUl li{
+  padding: 10px;
+  margin: 10pxpx;
+}
+.navUl a{
+  
+  color: antiquewhite;
+  text-decoration: none;
+  list-style-type: none;
+}
